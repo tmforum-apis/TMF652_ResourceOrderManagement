@@ -1,12 +1,8 @@
-# TMF652_ResourceOrderManagement
-TM Forum Open APIs (Apache 2.0) Resource Order Management API
+# TMF652 ResourceOrderManagement
 
-Placing a Resource Order with all necessary order parameters. A Resource Order is
-created based on a resource candidate that is defined in the resource catalog. The
-Resource candidate is an entity that makes a Resource Specification available to a
-resource catalog.
+TM Forum Open API (Apache 2.0) ResourceOrderManagement API.
 
-To access this API; (the Specification, Postman Collection, Swagger file, Swagger-UI,
-Reference Implementation, Conformance Profile, and CTK) go to the Open API table at:
+created based on a resource candidate that is defined in the resource catalog. The Resource candidate is an entity that makes a Resource Specification available to a resource catalog.
 
-https://projects.tmforum.org/wiki/display/API/Open+API+Table
+The resources in this repository are a mirror of the official versions, published here for your convenience.
+The authoritative source of information for this API is: https://www.tmforum.org/oda/open-apis/directory/
